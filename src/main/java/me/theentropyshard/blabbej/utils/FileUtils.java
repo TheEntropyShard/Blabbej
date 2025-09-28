@@ -1,5 +1,5 @@
 /*
- * CRLauncher - https://github.com/TheEntropyShard/Blabbej
+ * Blabbej - https://github.com/TheEntropyShard/Blabbej
  * Copyright (C) 2025 TheEntropyShard
  *
  * This program is free software: you can redistribute it and/or modify
